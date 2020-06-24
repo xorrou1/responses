@@ -1,0 +1,33 @@
+
+[
+	{
+	  "name": "HTML5 & CSS3",
+	  "ids": 1,
+	  "prices": 50,
+	  "imgs": "http://placehold.it/200x150"
+	},
+	{
+		"name": "JavaScript base",
+		"ids": 2,
+		"prices": 120,
+		"imgs": "http://placehold.it/200x150"
+	},
+	{
+		"name": "JavaScript advanced",
+		"ids": 3,
+		"prices": 130,
+		"imgs": "http://placehold.it/200x150"
+	},
+	{
+		"name": "PHP",
+		"ids": 4,
+		"prices": 50,
+		"imgs": "http://placehold.it/200x150"
+	},
+	{
+		"name": "React",
+		"ids": 5,
+		"prices": 150,
+		"imgs": "http://placehold.it/200x150"
+	}
+ ]
