@@ -1,0 +1,58 @@
+[
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 52
+    },
+    {
+        product-id: "prod_1",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        productName: "BANANA PEOPLE T-SHIRT",
+        productPrice: 60
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 40
+    },
+
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 25
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 62
+    },
+    {
+        product-id: "prod_1",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        productName: "BANANA PEOPLE T-SHIRT",
+        productPrice: 32
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 52
+    },
+
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 59
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 43
+    }
+]
