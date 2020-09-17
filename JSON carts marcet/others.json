@@ -1,0 +1,58 @@
+[
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-1.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 52
+    },
+    {
+        product-id: "prod_1",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-2.png",
+        productName: "BANANA PEOPLE T-SHIRT",
+        productPrice: 60
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-3.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 40
+    },
+
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-4.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 25
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-5.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 62
+    },
+    {
+        product-id: "prod_1",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-6.png",
+        productName: "BANANA PEOPLE T-SHIRT",
+        productPrice: 32
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-7.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 52
+    },
+
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-8.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 59
+    },
+    {
+        product-id: "prod_0",
+        productImg: "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-9.png",
+        productName: "MANGO PEOPLE T-SHIRT",
+        productPrice: 43
+    }
+]
