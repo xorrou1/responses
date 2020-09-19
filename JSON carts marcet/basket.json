@@ -4,14 +4,14 @@
     "totalPrice": 203,
     "content": [
         {
-            "productId": "prod_1",
+            "productId": "prod_5",
             "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-6.png",
             "productName": "BANANA PEOPLE T-SHIRT",
             "productPrice": 32,
             "amount": 2
         },
         {
-            "productId": "prod_0",
+            "productId": "prod_6",
             "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-7.png",
             "productName": "MANGO PEOPLE T-SHIRT",
             "productPrice": 52,
