@@ -3,65 +3,56 @@
         "productId": "prod_0",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-1.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 52,
-        "amount": 1
+        "productPrice": 52
     },
     {
         "productId": "prod_1",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-2.png",
         "productName": "BANANA PEOPLE T-SHIRT",
-        "productPrice": 60,
-        "amount": 1
+        "productPrice": 60
     },
     {
         "productId": "prod_2",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-3.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 40,
-        "amount": 1
+        "productPrice": 40
     },
 
     {
         "productId": "prod_3",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-4.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 25,
-        "amount": 1
+        "productPrice": 25
     },
     {
         "productId": "prod_4",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-5.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 62,
-        "amount": 1
+        "productPrice": 62
     },
     {
         "productId": "prod_5",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-6.png",
         "productName": "BANANA PEOPLE T-SHIRT",
-        "productPrice": 32,
-        "amount": 1
+        "productPrice": 32
     },
     {
         "productId": "prod_6",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-7.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 52,
-        "amount": 1
+        "productPrice": 52
     },
 
     {
         "productId": "prod_7",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-8.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 59,
-        "amount": 1
+        "productPrice": 59
     },
     {
         "productId": "prod_9",
         "productImg": "https://raw.githubusercontent.com/xorrou1/responses/master/JSON%20carts%20marcet/img/product-9.png",
         "productName": "MANGO PEOPLE T-SHIRT",
-        "productPrice": 43,
-        "amount": 1
+        "productPrice": 43
     }
 ]
